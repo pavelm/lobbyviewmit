@@ -1,0 +1,75 @@
+committee_id,type,committee_name
+HHAH,house,House Committee on Energy (Ad Hoc)
+HLCQ,house,House Committee on Committees (Select)
+HLET,house,House Committee on Ethics (Select)
+HLIG,house,House Permanent Select Committee on Intelligence
+HLOC,house,House Committee on Outer Continental Shelf (Select)
+HSAG,house,House Committee on Agriculture
+HSAP,house,House Committee on Appropriations
+HSAS,house,House Committee on Armed Services
+HSAT,house,House Committee on Joint Atomic Energy
+HSBA,house,House Committee on Financial Services
+HSBU,house,House Committee on the Budget
+HSCN,house,House Select Committee on the Climate Crisis
+HSDT,house,House Committee on District of Columbia
+HSED,house,House Committee on Education and the Workforce
+HSEF,house,House Select Committee on Economic Disparity and Fairness in Growth
+HSFA,house,House Committee on Foreign Affairs
+HSFD,house,House Select Subcommittee on the Weaponization of the Federal Government
+HSGO,house,House Committee on Oversight and Accountability
+HSGW,house,House Select Committee on Energy Independence and Global Warming
+HSHA,house,House Committee on House Administration
+HSHM,house,House Committee on Homeland Security
+HSIF,house,House Committee on Energy and Commerce
+HSII,house,House Committee on Natural Resources
+HSIJ,house,House Select Committee to Investigate the January 6th Attack on the United States Capitol
+HSJU,house,House Committee on the Judiciary
+HSMH,house,House Select Committee on the Modernization of Congress
+HSMM,house,House Committee on Merchant Marine and Fisheries
+HSPO,house,House Committee on Post Office and Civil Service
+HSPW,house,House Committee on Transportation and Infrastructure
+HSRU,house,House Committee on Rules
+HSSM,house,House Committee on Small Business
+HSSO,house,House Committee on Ethics
+HSSY,house,"House Committee on Science, Space, and Technology"
+HSUA,house,House Committee on Internal Security
+HSVC,house,House Select Subcommittee on the Coronavirus Pandemic
+HSVR,house,House Committee on Veterans' Affairs
+HSWM,house,House Committee on Ways and Means
+HSZS,house,House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
+HTDE,house,Temporary Joint Committee on Deficit Reduction
+JCSE,joint,Commission on Security and Cooperation in Europe
+JSAT,senate,Joint Atomic Energy
+JSEC,joint,Joint Economic Committee
+JSLC,joint,Joint Committee on the Library
+JSPR,joint,Joint Committee on Printing
+JSTX,joint,Joint Committee on Taxation
+JTDR,senate,Temporary Joint Committee on Deficit Reduction
+SCNC,senate,United States Senate Caucus on International Narcotics Control
+SLET,senate,Senate Select Committee on Ethics
+SLIA,senate,Senate Committee on Indian Affairs
+SLIN,senate,Senate Select Committee on Intelligence
+SLPO,senate,Senate Committee on POW/MIA Affairs
+SPAG,senate,Senate Special Committee on Aging
+SPIM,senate,Senate Committee on Impeachment (Special) (Hastings)
+SPOC,senate,Senate Committee on Official Conduct (Special)
+SPWW,senate,Senate Committee on Whitewater Dev Corp Investigation (Special)
+SSAE,senate,Senate Committee on Aeronautical and Space Sciences
+SSAF,senate,"Senate Committee on Agriculture, Nutrition, and Forestry"
+SSAP,senate,Senate Committee on Appropriations
+SSAS,senate,Senate Committee on Armed Services
+SSBK,senate,"Senate Committee on Banking, Housing, and Urban Affairs"
+SSBU,senate,Senate Committee on the Budget
+SSCM,senate,"Senate Committee on Commerce, Science, and Transportation"
+SSDT,senate,Senate Committee on District of Columbia
+SSEG,senate,Senate Committee on Energy and Natural Resources
+SSEV,senate,Senate Committee on Environment and Public Works
+SSFI,senate,Senate Committee on Finance
+SSFR,senate,Senate Committee on Foreign Relations
+SSGA,senate,Senate Committee on Homeland Security and Governmental Affairs
+SSHR,senate,"Senate Committee on Health, Education, Labor, and Pensions"
+SSJU,senate,Senate Committee on the Judiciary
+SSPO,senate,Senate Committee on Post Office and Civil Service
+SSRA,senate,Senate Committee on Rules and Administration
+SSSB,senate,Senate Committee on Small Business and Entrepreneurship
+SSVA,senate,Senate Committee on Veterans' Affairs
