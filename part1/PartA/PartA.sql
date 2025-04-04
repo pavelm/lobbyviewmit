@@ -4,6 +4,7 @@
 ----------------
 -- Part A
 
+-- coalesce function returns the first non-null value in set https://www.w3schools.com/sql/func_sqlserver_coalesce.asp
 SELECT r.registrant_id
 FROM analyst.registrants AS r
          JOIN analyst.filings AS f ON r.registrant_id = f.registrant_id
